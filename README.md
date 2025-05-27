@@ -4,9 +4,8 @@ This is a personal resume website built using **React.js** and styled with **Tai
 
 ## 🔗 Live Demo
 
-🌐 Vercel Link: [yourname.vercel.app](https://yourname.vercel.app)  
-🔗 GitHub Repo: [github.com/yourusername/react-resume](https://github.com/yourusername/react-resume)
-
+🌐 Vercel Link: https://varis-react-resume-5r9i.vercel.app/
+🔗 GitHub Repo: https://github.com/Varisdeep/varis_react_resume
 ---
 
 ## 📁 Project Structure
@@ -45,17 +44,9 @@ README.md
 
 ---
 
-## 📸 Screenshot
-
-![React Resume Screenshot](https://your-screenshot-link.com)
-
----
-
 ## 🧠 Challenges Faced
 
 - **Dark Mode Navigation Visibility**: Initially, the navigation bar wasn’t visible in dark mode. Resolved this by conditionally applying Tailwind classes for background and text color.
-- **Responsive Sidebar**: Creating a sidebar that slides in and out with smooth transitions for small screens required managing state and CSS transitions effectively.
-- **Skills Display**: Mapping grouped skill categories dynamically to cards for better readability.
 - **Deployment**: Ensuring the Tailwind configuration and dark mode worked correctly on Vercel required proper setup of `tailwind.config.js` and Vite production build handling.
 
 ---
@@ -72,8 +63,8 @@ README.md
 
 ## 📬 Contact
 
-- 📧 Email: yourname@email.com
-- 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: varisdeepsinghsingh2@loyalistcollege.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/varis-thind-527b94307/
 
 ---
 
